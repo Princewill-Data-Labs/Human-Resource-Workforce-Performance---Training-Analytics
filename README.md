@@ -2,6 +2,40 @@
 
 HR Workforce, Performance & Training Analytics
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/HR_Workforce,Performance_&_Training_Analytics%20Dashboard-blue)
+![Data Analysis](https://img.shields.io/badge/Analysis-Data%20Visualization-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+# Table of Contents
+
+- Project Overview
+- Background
+- Problem Statement
+- Project Objectives
+- Dataset Description
+- Dataset Structure
+- Data Dictionary
+- Data Preparation
+- Data Cleaning Process
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Dashboard Components
+- Key Performance Indicators (KPIs)
+- Dashboard Insights
+- Trend Analysis
+- Challenges Identified
+- Recommendations
+- Tools & Techniques Used
+- Project Deliverables
+- Conclusion
+- Author
+
+---
+
+
 📊 Project Overview
 ---
 This project is an HR Workforce, Performance & Training Analytics solution built from an Excel dataset containing employee demographics, employment information, performance ratings, engagement and satisfaction measures, and training records.
