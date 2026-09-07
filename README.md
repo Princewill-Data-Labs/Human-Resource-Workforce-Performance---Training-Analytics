@@ -12,24 +12,19 @@ HR Workforce, Performance & Training Analytics
 # Table of Contents
 
 - Project Overview
-- Background
-- Problem Statement
 - Project Objectives
-- Dataset Description
-- Dataset Structure
-- Data Dictionary
-- Data Preparation
-- Data Cleaning Process
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- Dashboard Components
-- Key Performance Indicators (KPIs)
-- Dashboard Insights
-- Trend Analysis
-- Challenges Identified
-- Recommendations
+- Workbook Structure
+- Data Preparation and Cleaning
+- Key Workforce Metrics
+- WorkForce Analysis
+- Gender Distribution
+- Performance Analysis
+- Employee Experience Analysis
+- Training and Development Analysis
+- Training Cost Analysis
 - Tools & Techniques Used
-- Project Deliverables
+- Project Limitations
+- Recommendations
 - Conclusion
 - Author
 
@@ -139,6 +134,7 @@ The cleaned worksheet standardizes this to:
 Start Date
 
 The remaining field values in the supplied raw and cleaned worksheets are equivalent when compared row-by-row.
+
 
 ---
 📈 Key Workforce Metrics
@@ -496,7 +492,7 @@ Does training outcome differ by department?
 How much is being spent on training?
 
 ---
-🛠️ Tools & Technologies
+🛠️ Tools & Techniques Used
 ---
 
 This project is primarily built around Microsoft Excel and the use of Power Business Intelligence for visualization.
