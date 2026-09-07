@@ -2,7 +2,7 @@
 
 HR Workforce, Performance & Training Analytics
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power-Bi](https://img.shields.io/badge/Tool-Power%20Business_Inteligence-217346?logo=power-Bi&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/HR_Workforce,Performance_&_Training_Analytics%20Dashboard-blue)
 ![Data Analysis](https://img.shields.io/badge/Analysis-Data%20Visualization-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
