@@ -401,21 +401,22 @@ Page 1 — WorkForce Overview
 ---
 KPIs
 ---
-Total Employees
 
-Active Employees
+● Total Employees
 
-Terminated Employees
+● Active Employees
 
-Average Age
+● Terminated Employees
 
-Average Engagement
+● Average Age
 
-Slicers
+● Average Engagement
 
-Male
+● Slicers
 
-Female
+● Male
+
+● Female
 
 ---
 Page 2 — Employee Performance & Engagement
@@ -423,12 +424,13 @@ Page 2 — Employee Performance & Engagement
 
 <img width="898" height="504" alt="Employee Performance   Engagement" src="https://github.com/user-attachments/assets/6571639d-52c9-456c-ad7a-834635e1381f" />
 
-
+---
 KPIs
+---
 
-Average Employee Rating
+● Average Employee Rating
 
-Average Performance Score
+● Average Performance Score
 
 ---
 Page 3 — Training & Development Analytics
@@ -436,63 +438,70 @@ Page 3 — Training & Development Analytics
 
 <img width="890" height="502" alt="Training   Development Analysis" src="https://github.com/user-attachments/assets/c216bb23-457f-4476-b6c7-963ee55b9d51" />
 
-
+---
 KPIs
+---
 
-Total Training Cost
+● Total Training Cost
 
-Average Training Cost
+● Employees Trained
 
-Average Training Duration
+● Average Training Duration
 
 ---
 🔎 Business Questions This Project has Answered
 ---
 
+---
 Workforce
+---
 
-How many employees are currently active?
+1) How many employees are currently active?
 
-What percentage of employees have been terminated?
+2) What percentage of employees have been terminated?
 
-Which departments have the largest workforce?
+3) Which departments have the largest workforce?
 
-What is the distribution of employee types?
+4) What is the distribution of employee types?
 
-What is the organization's average employee age?
+5) What is the organization's average employee age?
 
-##Performance
+---
+Performance
+---
 
-What percentage of employees exceed expectations?
+1) What percentage of employees exceed expectations?
 
-Which departments have the strongest performance?
+2) Which departments have the strongest performance?
 
-Which departments have the highest performance risk?
+3) Which departments have the highest performance risk?
 
-How does employee rating vary across departments?
+4) How does employee rating vary across departments?
 
-Is higher engagement associated with stronger performance?
+5) Is higher engagement associated with stronger performance?
 
-##Employee Experience
+---
+Employee Experience
+---
+1) Which departments have the highest engagement?
 
-Which departments have the highest engagement?
+2) Which groups report the lowest satisfaction?
 
-Which groups report the lowest satisfaction?
+3) Which departments have weaker work-life balance?
 
-Which departments have weaker work-life balance?
+---
+Training
+---
 
+1) Which training programs are most frequently used?
 
-##Training
+2) Which training programs cost the most?
 
-Which training programs are most frequently used?
+3) Which programs have the highest completion or pass rates?
 
-Which training programs cost the most?
+4) Does training outcome differ by department?
 
-Which programs have the highest completion or pass rates?
-
-Does training outcome differ by department?
-
-How much is being spent on training?
+5) How much is being spent on training?
 
 ---
 🛠️ Tools & Techniques Used
@@ -500,29 +509,29 @@ How much is being spent on training?
 
 This project is primarily built around Microsoft Excel and the use of Power Business Intelligence for visualization.
 
-Microsoft Excel
+● Microsoft Excel
 
-Power BI
+● Power BI
 
 ---
 Excel skills demonstrated
 ---
 
-Dax measures
+● Dax measures
 
-Data cleaning
+● Data cleaning
 
-Data validation
+● Data validation
 
-Sorting and filtering
+● Sorting and filtering
 
-KPI calculations
+● KPI calculations
 
-Conditional formatting
+● Conditional formatting
 
-Date analysis
+● Date analysis
 
-Percentage calculations
+● Percentage calculations
 
 ---
 📌 Project Limitations
@@ -530,30 +539,28 @@ Percentage calculations
 
 The following limitations were considered before using the dataset for formal HR decision-making:
 
-The accuracy of the analysis depends heavily on the quality of the underlying employee data. Missing values, inconsistent entries, duplicate records, or incorrect classifications could affect KPIs and visualizations.
+● The accuracy of the analysis depends heavily on the quality of the underlying employee data. Missing values, inconsistent entries, duplicate records, or incorrect classifications could affect KPIs and visualizations.
 
-the dataset covers a relatively short period, it may not be sufficient to identify long-term workforce trends, employee performance patterns, or changes in training effectiveness.
+● the dataset covers a relatively short period, it may not be sufficient to identify long-term workforce trends, employee performance patterns, or changes in training effectiveness.
 
-Performance scores are often influenced by managerial assessments and predefined evaluation criteria. Therefore, they may not fully capture an employee's actual productivity, potential, teamwork, creativity, or contribution to the organization.
+● Performance scores are often influenced by managerial assessments and predefined evaluation criteria. Therefore, they may not fully capture an employee's actual productivity, potential, teamwork, creativity, or contribution to the organization.
 
-The dataset does not document the source organization or collection methodology.
+● The dataset does not document the source organization or collection methodology.
 
-The Training Cost field does not specify its currency.
-
-The data supports descriptive and exploratory analysis but does not by itself establish causality.
+● The Training Cost field does not specify its currency.
 
 ---
 📈 Recommendations
 ---
 
-HR should investigate the factors associated with employee turnover, particularly across departments, job roles, tenure groups, and performance levels. Targeted retention initiatives such as career progression, recognition programs, workload reviews, and employee engagement activities can help reduce avoidable attrition.
+● HR should investigate the factors associated with employee turnover, particularly across departments, job roles, tenure groups, and performance levels. Targeted retention initiatives such as career progression, recognition programs, workload reviews, and employee engagement activities can help reduce avoidable attrition.
 
 
-Training resources should be allocated based on identified skill gaps and employee performance. Rather than providing the same training to everyone, HR should prioritize departments and employee groups showing lower performance or higher development needs.
+● Training resources should be allocated based on identified skill gaps and employee performance. Rather than providing the same training to everyone, HR should prioritize departments and employee groups showing lower performance or higher development needs.
 
-The organization should establish a process for measuring whether training actually improves performance. Pre- and post-training performance indicators can be compared to determine which training programs deliver measurable value.
+● The organization should establish a process for measuring whether training actually improves performance. Pre- and post-training performance indicators can be compared to determine which training programs deliver measurable value.
 
-Employees with consistently low performance scores should receive structured performance improvement plans, coaching, and regular feedback. High-performing employees should also be recognized and considered for additional responsibilities, promotions, or leadership development.
+● Employees with consistently low performance scores should receive structured performance improvement plans, coaching, and regular feedback. High-performing employees should also be recognized and considered for additional responsibilities, promotions, or leadership development.
 
 ---
  ⭐ Conclusion
