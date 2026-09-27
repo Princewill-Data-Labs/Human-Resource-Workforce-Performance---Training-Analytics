@@ -390,9 +390,9 @@ Average training cost: $559.28
 
 
 
-
+---
 Page 1 — WorkForce Overview 
-
+---
 
 
 <img width="895" height="504" alt="HR Workforce Overview" src="https://github.com/user-attachments/assets/241bf9fe-feaf-43f4-a38f-8f4b8ba887f1" />
