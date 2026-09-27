@@ -37,11 +37,11 @@ This project is an HR Workforce, Performance & Training Analytics solution built
 
 The workbook is designed to support HR and management analysis across three major areas:
 
-Workforce Analysis — employee headcount, employment status, employee types, departments, business units, pay zones, demographics, and tenure-related information.
+A) Workforce Analysis — employee headcount, employment status, employee types, departments, business units, pay zones, demographics, and tenure-related information.
 
-Performance & Employee Experience Analysis — performance scores, employee ratings, engagement, satisfaction, and work-life balance.
+B) Performance & Employee Experience Analysis — performance scores, employee ratings, engagement, satisfaction, and work-life balance.
 
-Training & Development Analysis — training programs, training type, outcomes, duration, and training costs.
+C) Training & Development Analysis — training programs, training type, outcomes, duration, and training costs.
 
 The workbook contains two worksheets:
 
@@ -55,45 +55,47 @@ Cleaned Dataset — the analysis-ready version.
 
 The main objectives of this project are to:
 
-Analyze the organization's workforce structure.
+1). Analyze the organization's workforce structure.
 
-Monitor active versus terminated employees.
+2). Monitor active versus terminated employees.
 
-Understand employee composition by employment type and classification.
+3). Understand employee composition by employment type and classification.
 
-Examine workforce distribution across departments, divisions, business units, and pay zones.
+4). Examine workforce distribution across departments, divisions, business units, and pay zones.
 
-Analyze employee performance levels.
+5). Analyze employee performance levels.
 
-Evaluate employee engagement, satisfaction, and work-life balance.
+6). Evaluate employee engagement, satisfaction, and work-life balance.
 
-Assess the organization's training programs and training outcomes.
+7). Assess the organization's training programs and training outcomes.
 
-Analyze training duration and training expenditure.
+8). Analyze training duration and training expenditure.
 
-Identify patterns that may help HR improve employee development and retention.
+9). Identify patterns that may help HR improve employee development and retention.
 
-Provide a clean and structured dataset suitable for business intelligence reporting.
+10). Provide a clean and structured dataset suitable for business intelligence reporting.
 
 ---
 🗂️ Workbook Structure
 ---
 
+---
 Dataset Size
+---
 
-Records: 2,845
+● Records: 2,845
 
-Columns: 28
+● Columns: 28
 
-Missing values: 0 across the supplied fields
+● Missing values: 0 across the supplied fields
 
-Duplicate rows: 0 detected
+● Duplicate rows: 0 detected
 
-Start Date range: 2018-08-07 to 2023-08-06
+● Start Date range: 2018-08-07 to 2023-08-06
 
-Survey Date range: 2022-08-05 to 2023-08-05
+● Survey Date range: 2022-08-05 to 2023-08-05
 
-Training Date range: 2022-08-05 to 2023-08-05
+● Training Date range: 2022-08-05 to 2023-08-05
 
 ---
 🧹 Data Preparation & Cleaning
@@ -101,37 +103,41 @@ Training Date range: 2022-08-05 to 2023-08-05
 
 The workbook provides both a raw and cleaned worksheet, making the data preparation stage transparent.
 
+---
 Cleaning checks performed
+---
 
 The cleaned dataset was reviewed for:
 
-Missing values
+● Missing values
 
-Duplicate records
+● Duplicate records
 
-Consistent column naming
+● Consistent column naming
 
-Date-field consistency
+● Date-field consistency
 
-Numeric-field consistency
+● Numeric-field consistency
 
-Categorical-field consistency
+● Categorical-field consistency
 
-Employee identifier integrity
+● Employee identifier integrity
 
-Training cost and duration fields
+● Training cost and duration fields
 
-Employee demographic and workforce attributes
+● Employee demographic and workforce attributes
 
+---
 Important structural change
+---
 
 The raw worksheet contains the field:
 
-StartDate
+● StartDate
 
 The cleaned worksheet standardizes this to:
 
-Start Date
+● Start Date
 
 The remaining field values in the supplied raw and cleaned worksheets are equivalent when compared row-by-row.
 
@@ -140,57 +146,55 @@ The remaining field values in the supplied raw and cleaned worksheets are equiva
 📈 Key Workforce Metrics
 ---
 
+---
 Based on the cleaned dataset:
+---
 
-KPI
-
-Value
-
-Total Employee Records
+● Total Employee Records
 
 2,845
 
-Active Employees
+● Active Employees
 
 2,458
 
-Terminated Employees
+● Terminated Employees
 
 387
 
-Termination Rate
+● Termination Rate
 
 13.60%
 
-Average Employee Age
+● Average Employee Age
 
 49.45 years
 
-Average Employee Rating
+● Average Employee Rating
 
 2.97 / 5
 
-Average Engagement Score
+● Average Engagement Score
 
 2.94 / 5
 
-Average Satisfaction Score
+● Average Satisfaction Score
 
 3.03 / 5
 
-Average Work-Life Balance Score
+● Average Work-Life Balance Score
 
 2.99 / 5
 
-Total Training Cost
+● Total Training Cost
 
 $1,591,148.63
 
-Average Training Cost
+● Average Training Cost
 
 $559.28
 
-Average Training Duration
+● Average Training Duration
 
 2.97 days
 
@@ -198,15 +202,17 @@ Average Training Duration
 👥 Workforce Analysis
 ---
 
+---
 Employee Status
+---
 
 The dataset contains:
 
-2,458 Active employees
+● 2,458 Active employees
 
-387 Terminated employees
+● 387 Terminated employees
 
-13.60% termination rate
+● 13.60% termination rate
 
 This metric is used as a high-level indicator of workforce stability.
 
@@ -214,15 +220,11 @@ This metric is used as a high-level indicator of workforce stability.
 Gender Distribution
 ---
 
-Gender
-
-Records
-
-Female
+● Female
 
 1,588
 
-Male
+● Male
 
 1,257
 
@@ -234,23 +236,19 @@ Gender distribution was examined alongside department, employee type, performanc
 
 The Performance Score field contains four performance categories:
 
-Performance Category
-
-Records
-
-Fully Meets
+● Fully Meets
 
 2,251
 
-Exceeds
+● Exceeds
 
 346
 
-Needs Improvement
+● Needs Improvement
 
 162
 
-PIP
+● PIP
 
 86
 
@@ -274,29 +272,27 @@ PIP
 😊 Employee Experience Analysis
 ---
 
-The dataset contains three 1–5 employee-experience measures:
+The dataset contains three employee-experience measures:
 
-Engagement Score
+● Engagement Score
 
-Satisfaction Score
+● Satisfaction Score
 
-Work-Life Balance Score
+● Work-Life Balance Score
 
+---
 Average values in the supplied dataset are:
+---
 
-Metric
-
-Average
-
-Engagement Score
+● Engagement Score
 
 2.94 / 5
 
-Satisfaction Score
+● Satisfaction Score
 
 3.03 / 5
 
-Work-Life Balance Score
+● Work-Life Balance Score
 
 2.99 / 5
 
@@ -308,75 +304,75 @@ These measures were analyzed independently into an overall employee-experience i
 
 Training is represented through:
 
-Training Program Name
+● Training Program Name
 
-Training Type
+● Training Type
 
-Training Outcome
+● Training Outcome
 
-Training Duration
+● Training Duration
 
-Training Cost
+● Training Cost
 
-Training Date
+● Training Date
 
-Training Programs
+● Training Programs
 
-Training Program
+● Training Program
 
+---
 Records
+---
 
-Communication Skills
+● Communication Skills
 
 633
 
-Project Management
+● Project Management
 
 585
 
-Leadership Development
+● Leadership Development
 
 544
 
-Technical Skills
+● Technical Skills
 
 543
 
-Customer Service
+● Customer Service
 
 540
 
-Training Type
+● Training Type
 
+---
 The dataset contains:
+---
 
-1,421 Internal training records
+● 1,421 Internal training records
 
-1,424 External training records
+● 1,424 External training records
 
+---
 Training Outcomes
+---
 
-Outcome
-
-Records
-
-Completed
+● Completed
 
 737
 
-Incomplete
+● Incomplete
 
 731
 
-Passed
+● Passed
 
 709
 
-Failed
+● Failed
 
 668
-
-Training Completion rate
 
 ---
 💰 Training Cost Analysis
@@ -384,14 +380,19 @@ Training Completion rate
 
 The dataset contains a Training Cost measure for each record.
 
+---
 Key cost metrics
+---
 
 Total training cost: $1,591,148.63
 
 Average training cost: $559.28
 
 
+
+
 Page 1 — WorkForce Overview 
+
 
 
 <img width="895" height="504" alt="HR Workforce Overview" src="https://github.com/user-attachments/assets/241bf9fe-feaf-43f4-a38f-8f4b8ba887f1" />
