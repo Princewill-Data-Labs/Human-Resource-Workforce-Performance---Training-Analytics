@@ -254,19 +254,21 @@ PIP
 
 86
 
- performance questions
+-----
+## performance questions
 
-What percentage of employees fully meet expectations?
+-----
+1) What percentage of employees fully meet expectations?
 
-Which departments have the highest share of Exceeds ratings?
+2) Which departments have the highest share of Exceeds ratings?
 
-Which departments have the highest concentration of Needs Improvement or PIP employees?
+3) Which departments have the highest concentration of Needs Improvement or PIP employees?
 
-Does employee engagement correlate with performance?
+4) Does employee engagement correlate with performance?
 
-Does training outcome appear to differ by performance category?
+5) Does training outcome appear to differ by performance category?
 
-Are terminated employees concentrated in particular performance groups?
+6) Are terminated employees concentrated in particular performance groups?
 
 ---
 😊 Employee Experience Analysis
